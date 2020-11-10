@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name = "viewport" content ="width=device-width, initial-scale=1.0">
+        <link rel ="stylesheet" href="Estilos.css">
+        <script type="text/javascript" src="function.js"></script>
+        <title>Document</title>
+    </head>
+    <body>
+        <center>
+        <div class ="contenedor">
+            <div class ="pantalla"></div>
+            <div class ="fila">
+                <button class = "operacion" onclick="borraruno()">C</button>
+                <button class = "operacion" onclick="borrar()">AC</button>
+                <button class="vacio">r</button>
+                <button class = "operacion" onclick ="insertar('/')">/</button>
+            </div>
+            <div class ="fila">
+                <button onclick ="insertar(7)">7</button>
+                <button onclick ="insertar(8)">8</button>
+                <button onclick ="insertar(9)">9</button>
+                <button class = "operacion" onclick ="insertar('*')">x</button>
+            </div>
+            <div class ="fila">
+                <button onclick ="insertar(4)">4</button>
+                <button onclick ="insertar(5)">5</button>
+                <button onclick ="insertar(6)">6</button>
+                <button class = "operacion" onclick ="insertar('-')">-</button>
+            </div>
+            <div class ="fila">
+                <button onclick ="insertar(1)">1</button>
+                <button onclick ="insertar(2)">2</button>
+                <button onclick ="insertar(3)">3</button>
+                <button class = "operacion" onclick ="insertar('+')">+</button>
+            </div>
+            <div class ="fila">
+                <button onclick ="insertar(0)">0</button>
+                <button onclick ="insertar('.')">.</button>
+                <button class="vacio">r</button>
+                <button class = "operacion" onclick ="resultado()">=</button>
+            </div>
+        </center>
+    </body>
+</html>
