@@ -1,0 +1,122 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+    background: #007e941e;
+}
+.UP{
+    margin-top: 2rem;
+    position: relative;
+    height: 3rem;
+    width: 75rem;
+    background: #cf63c6;
+    border-radius: 10px;
+    margin-left:3rem ;
+    color: white;
+}
+.UP h3{
+    vertical-align: middle;
+    position: relative;
+    top: 10px;
+    left: 3rem;
+}
+.izquierda{
+    position: relative;
+    margin-top: 2rem;
+    margin-left: 3rem;
+    width: 10rem;
+}
+.left-top{
+    height: 20rem;
+    background: #cf63c6;
+    color: white;
+}
+.left-top h4{
+    position: relative;
+    left:1rem ;
+    top: 1rem;
+}
+.left-down{
+    height: 14rem;
+    background: #ffffff;
+    color: #cf63c6;
+}
+.left-down h4{
+    position: relative;
+    top: 1rem;
+    left: 3rem;
+}
+.bannana2{
+    margin-top: -36rem;
+    left: 24rem;
+    position: relative;
+    height: 4rem;
+    width: 70rem;
+    background: #ffffff;
+    border-radius: 10px;
+    color: #000000;
+}
+.bannana2 h4{
+    position: relative;
+    top: 1.5rem;
+    left: 1rem;
+}
+.cont{
+    position: relative;
+    width: 15rem;
+    border-radius: 25px;
+    height: 20rem;
+}
+.cont1{
+    color:white;
+    background: #cf63c6;
+    margin-top: 2rem;
+    left: 24rem;
+}
+.cont2{
+
+    color:#cf63c6;;
+    background:white;
+    margin-top:-20rem;
+    left: 45rem;
+}
+.cont3{
+    color:white;
+    background: #cf63c6;
+    margin-top: -20rem;
+    left: 67rem;
+}
+.cont h4{
+    position: relative;
+    left:3rem;
+    top: 1rem;
+}
+.button .bannana3{
+    margin-top: 2rem;
+    position: relative;
+    height: 3rem;
+    width: 50rem;
+    background: #cf63c6;
+    border-radius: 10px;
+    margin-left:35rem ;
+    color: white;
+}
+.button h3{
+    vertical-align: middle;
+    position: relative;
+    top: 10px;
+    left: 1rem;
+}
+.button .bannana4{
+    margin-top: 2rem;
+    left: 25rem;
+    position: relative;
+    height: 3rem;
+    width: 60rem;
+    background: #ffffff;
+    border-radius: 10px;
+    color: #000000;
+}
