@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css2?family=Caveat&family=Cinzel&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rye&display=swap');
+body
+{
+    background-image: url("1.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.c1
+{
+	position: absolute;
+	font-family: 'Cinzel', serif;
+	width: 40%;
+	height: 25%;
+	color: rgb(40, 34, 75);
+	left: 55%;
+	top: 25%;
+
+	background-color: rgba(255, 255, 255, 0.275);
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	padding-top: 15px;
+	border-style: double;
+	border-color: tomato;
+	
+}
+.c2
+{
+	position: absolute;
+	font-family: 'Cinzel', serif;
+	width: 40%;
+	height: 14%;
+	color: white;
+	left: 3%;
+	top: 6%;
+
+	background-color: rgba(255, 255, 255, 0.275);
+	border-radius: 10px;
+	text-align: center;
+	padding: 10px;
+	border-style: double;
+	border-color: tomato;
+}
+.c3
+{
+	position: absolute;
+	font-family: 'Cinzel', serif;
+	width: 42%;
+	height: 17%;
+	color: rgb(43, 40, 60);
+	left: 12%;
+	top: 70%;
+
+	background-color: rgba(255, 255, 255, 0.275);
+	border-radius: 10px;
+	text-align: center;
+	padding: 15px;
+
+	border-style: double;
+	border-color: tomato;
+}
+.Trabajos1
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 25%;
+	left: 7%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+.Trabajos2
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 31%;
+	left: 17%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+
+.Trabajos3
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 5%;
+	left: 50%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+.Trabajos4
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 15%;
+	left: 77%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+.Trabajos5
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 63%;
+	left: 2%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+.Trabajos6
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 60%;
+	left: 36%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
+.Trabajos7
+{
+	position: absolute;
+	font-family: 'Rye', cursive;
+	font-size: 20px;
+	top: 58%;
+	left: 60%;
+	color: rgba(133, 0, 122, 0.659);
+	-webkit-text-stroke:1px rgba(38, 18, 36, 0.726);
+}
