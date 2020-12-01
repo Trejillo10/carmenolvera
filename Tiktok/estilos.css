@@ -1,0 +1,138 @@
+
+.titulote
+{
+    font-size: 80px;
+    text-align: center;
+}
+.nombre1
+{
+    font-size: 40px;
+    text-align: center;
+}
+.uni
+{
+    text-align: center;
+    font-size: 40px;
+    color: gray;
+}
+.verde
+{
+    position: absolute;
+    background-color: rgb(88, 170, 88);
+    color: white;
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+.texto1, .texto3
+{
+    font-size: 50px;
+    color: black;
+}
+.texto2
+{
+    font-size: 50px;
+    color: black;
+    margin-left: 8%;
+}
+
+.naranja
+{
+    position: absolute;
+    background-color: tomato;
+    color: white;
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+.viñetas, .viñetas2, .viñetas3, .viñetas4
+{
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+}
+
+.azul, .final
+{
+    position: absolute;
+    background-color: rgb(20, 48, 119);
+    color: white;
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+.parrafote, .parrafote2
+{
+    font-size: 30px;
+    color: black;
+    text-align: justify;
+}
+.medioazul, .medioazul2, .eugenio, .andrea
+{
+    position: absolute;
+    background-color:white;
+    color: rgb(20, 48, 119);
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+    border-color: rgb(20, 48, 119);
+}
+
+.rosa
+{
+    position: absolute;
+    background-color: rgb(194, 42, 118);
+    color: white;
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+
+.morado
+{
+    position: absolute;
+    background-color: rgb(100, 31, 89);
+    color: white;
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 70px;
+    padding: 5px;
+}
+
+.david
+{
+    position: absolute;
+    background-color:white;
+    color: rgb(20, 48, 119);
+    width: 1330px;
+    height: 80px;
+    left: 2px;
+    border-style: inset;
+    border-color: white;
+    font-size: 55px;
+    padding: 5px;
+    border-color: rgb(20, 48, 119);
+}
